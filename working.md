@@ -11,7 +11,7 @@
 |Ray-Meta|yes|no|no|no|no|no|
 |IDBA-UD|yes|no|no|no|no|no|
 |SOAPdenovo|yes|no|no|no|no|no|
-|SOAPdenovo2|yes|no|no|no|no|no|
+|SOAPdenovo2|no|no|no|no|no|no|
 ### public
 |app_name|bj_image|bj_app_yml|sz_image|sz_app_yml|qd_image|qd_app_yml|
 ---|---|---|---|---|---|---|
