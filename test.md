@@ -58,7 +58,7 @@ author: GeneDock
 
 ![示范图](http://ww2.sinaimg.cn/large/a9c2d1f2jw1f86us8yooij20t90j6n0h.jpg)
 
-## git用于拉远端分支的几个命令
+## git用于拉远端分支的几个命令和提交PR
 
 - `git branch -a`,`-a`参数是列出所有远端和本地分支
 - `git checkout origin/<远端分支名>`，切到某个远端分支
