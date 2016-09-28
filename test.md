@@ -65,5 +65,6 @@ author: GeneDock
 - `git checkout -b <远端分支名>`，从远端的分支，新建一个与远端分支名相同的本地分支
 - `git checkout -b issue#xxx`，从<远端分支名>再checkout一个任务issue分支，在此issue上进行增加文档，用来和<远端分支名>进行比较
 - `git add -f`，由于为防止提错分支，到master上，所以该目录下的文件被放到了`.gitignore`中，故需要使用`-f`参数
+
 ### 注意
 提交PR的时候，要将issue#xxx与gdlogs的分支进行比较，不要和master的分支进行比较
