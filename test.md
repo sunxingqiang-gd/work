@@ -12,7 +12,7 @@ GeneDock的[发布日志](https://genedock.com/logs/)既可以告知用户我们
 
 - md文档开始的yaml头文件
 
-```
+```yaml
 ---
 layout: postc       # 此处固定写postc
 title: 标题          # 此处写文档的标题
